@@ -12,7 +12,7 @@ Flask 서버로 사용자 사진을 전달해 피부값(RGB)으로 머신러닝�
 어플로 간단하게 퍼스널 컬러를 진단하고,
 화장품 구매, 코디등에 도움을 주기 위해 개발하게 되었습니다.
 ### Flask server API
-<a href="https://github.com/kangdeagyu/Python_PersonalColor">Flask server Github Link</a>
+<a href="https://github.com/kangdeagyu/Personel_Flask">Flask server Github Link</a>
 
 ### Skill
 
